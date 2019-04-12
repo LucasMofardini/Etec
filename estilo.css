@@ -1,0 +1,19 @@
+body{
+  margin: 0 auto;
+    width: 1024px;
+    background-image: url(tupac-fundo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+
+.corpo{
+  height:1500px;
+  width: 100%;
+  background-color: blue;
+}
+header{
+  height:130px;
+  width: 100%;
+  background-color: pink;
+}
