@@ -11,9 +11,12 @@ body{
   height:1500px;
   width: 100%;
   background-color: blue;
+  opacity: 0.8;
 }
 header{
   height:130px;
   width: 100%;
   background-color: pink;
+  opacity: 0.8;
+
 }
