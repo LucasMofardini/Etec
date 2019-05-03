@@ -1,68 +1,72 @@
+
 body{
-  margin: 0 auto;
-    width: 1024px;
-    background-image: url(tupac-fundo.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% auto;
+margin: 0 auto;
+width: 1024px;
+background-image: url(tupac-fundo.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% auto;
 
 }
 
 .corpo{
-  height:1500px;
-  width: 100%;
-   /* background-color: blue; */
+height:1500px;
+width: 100%;
+/* background-color: blue; */
 
 }
 header{
-  height:130px;
+height:130px;
 
-  /* background-color: pink; */
-  position: fixed;
-  z-index: 4;
+/* background-color: pink; */
+position: fixed;
+z-index: 4;
+margin-top: 50px;
+    margin-left: -111px;
 }
 #img-logo{
-  width: 150px;
-  margin-top: 15px;
-  margin-left: 25px;
+width: 150px;
+margin-top: 15px;
+margin-left: 25px;
 }
 li{
-  list-style: none;
-  float: left;
-  padding: 10px;
-  font-size: 16px;
-  color: black;
-  background-color: white;
-  font-family: Courier New, monospace;
+list-style: none;
+float: left;
+padding: 10px;
+font-size: 16px;
+color: black;
+background-color: white;
+font-family: Courier New, monospace;
 
 }
 li:hover{
-  background-color: black;
-  color: white;
-  transition: 0.4s;
+background-color: black;
+color: white;
+transition: 0.4s;
 }
 .topicos{
-  margin-left: 230px;
-  margin-top:-70px;
+margin-left: 230px;
+margin-top:-70px;
 
 }
 h1{
-  position: absolute;
-  top: 150px;
-  right:750px;
-  font-size: 60px;
-  color: #696969;
-  font-family: Courier New, monospace;
-  font-style: normal;
-  background-color: white;
-  padding: 3px;
-  border-radius: 4px;
+position: absolute;
+top: 150px;
+right:750px;
+font-size: 60px;
+color: #696969;
+font-family: Courier New, monospace;
+font-style: normal;
+background-color: white;
+padding: 3px;
+border-radius: 4px;
 }
 .imagens-home{
-  position: absolute;
-  top: 500px;
-  left: 180px;
+position: absolute;
+top: 500px;
+left: 180px;
 }
 .imagens-home img {
 
 }
+
