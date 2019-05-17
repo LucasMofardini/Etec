@@ -1,4 +1,3 @@
-
 body{
 margin: 0 auto;
 width: 1024px;
@@ -8,6 +7,16 @@ background-attachment: fixed;
 background-size: 100% auto;
 
 }
+a{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  text-decoration: none;
+  color: white;
+  transition: 0.3s;
+}
+
 
 .corpo{
 height:1500px;
@@ -66,7 +75,38 @@ position: absolute;
 top: 500px;
 left: 180px;
 }
-.imagens-home img {
+.Biografia{
+  height: 200px;
+  margin-left: 100px;
+  margin-top: 500px;
 
 }
+#titulo-biografia{
+  margin-top: 100px;
+  margin-left: 800px;
+}
+.texto{
+color: white;
+}
+h2{
+  font-size: 40px;
+  color: white;
+  margin-left: 500px;
+  font-family: Courier New, monospace;
+}
+h6{
+  font-size: 30px;
+  color: white;
+  font-family: Courier New, monospace;
 
+}
+footer{
+  position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family:  Courier New, monospace;
+}
